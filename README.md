@@ -29,6 +29,8 @@ Add this to the end of the ```body``` to create the ```ProfanityFilter``` object
 </script>
 ```
 
+You need to load the words that are labeled profane yourself. You can thus add your own aswell.
+
 # Usage 
 
 ## Filtering profanity
@@ -67,3 +69,6 @@ profanityfilter.filter('I ate a cucumber');
 ```
 
 It is thus recommended to only use ```PROFANITY_MAX``` for manually flagged users
+
+## Custom characters
+Set filter character with ```char``` default is ```*```
