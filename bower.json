@@ -1,0 +1,27 @@
+{
+  "name": "profanity-filter",
+  "main": "profanity-filter.js",
+  "authors": [
+    "Daniel Wykerd <danielwykerd@gmail.com>"
+  ],
+  "description": "A Simple Compact Profanity Filtering Library",
+  "keywords": [
+    "profanity",
+    "profanity",
+    "filter",
+    "swearword",
+    "filter",
+    "censoring",
+    "censor",
+    "profanity"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
